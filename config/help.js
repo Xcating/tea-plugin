@@ -40,8 +40,8 @@ export const helpList = [{
     desc: '空位'
   }, {
     icon: 64,
-    title: '退群自动拉群黑',
-    desc: '仅供测试'
+    title: '空位',
+    desc: '空位'
   }]
 }, {
   group: '管理命令，仅管理员可用',

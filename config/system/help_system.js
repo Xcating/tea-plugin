@@ -27,20 +27,20 @@ export const helpList = [{
   group: '茶命令',
   list: [{
     icon: 61,
-    title: '#记录帮助',
-    desc: '适配TRSS-Plugin的记录帮助教程图'
+    title: '#茶帮助',
+    desc: '显示本帮助图'
   }, {
     icon: 63,
-    title: '#刻晴攻略[1234567]',
-    desc: '七家的角色攻略，6可能因为图片过大发不出'
+    title: '#茶版本',
+    desc: '查看茶版本更新日志'
   }, {
     icon: 66,
-    title: '#明日素材',
-    desc: '基于云崽的明日素材'
+    title: '空位',
+    desc: '空位'
   }, {
     icon: 64,
-    title: '#历史卡池(五星|四星)',
-    desc: '同云崽的#原石预估'
+    title: '空位',
+    desc: '空位'
   }]
 }, {
   group: '管理命令，仅管理员可用',
@@ -51,5 +51,3 @@ export const helpList = [{
     desc: '更新茶插件'
   }]
 }]
-
-export const isSys = true
